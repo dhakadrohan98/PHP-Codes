@@ -11,7 +11,7 @@ class AbstractImplement extends WebDumper{
 }
 
 $obj = new AbstractImplement();
-echo $obj->getExpenses(15)."\n";
-echo $obj->getQuote()."\n";
-echo $obj->getNews()."\n";
+echo $obj->getExpenses(5)."</br>";
+echo $obj->getQuote()."</br>";
+echo $obj->getNews()."</br>";
 ?>

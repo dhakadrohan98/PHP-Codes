@@ -10,3 +10,4 @@ class GoodBye{
 
 $obj = new GoodBye();
 $obj->byeBye(); 
+echo GoodBye::LEAVING_MESSAGE;
