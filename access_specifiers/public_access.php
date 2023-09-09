@@ -33,6 +33,6 @@ class child extends demo  {
     $obj->display(); 
     $obj->show(); 
 
-    $obj1->setSpouse("Priya nensaheb");
+    $obj1->setSpouse("Priya Mam");
     echo "Wife is: ".$obj1->getSpouse()."\n";
 ?>  
